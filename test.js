@@ -18,5 +18,6 @@ isPrimeNumber = (n) => {
 
 const numberHere = 1
 
+console.log(`O número ${numberHere} é...`);
 console.log(isEsotericOrSkeptical(numberHere));
 console.log(isPrimeNumber(numberHere));
